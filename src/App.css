@@ -1,6 +1,12 @@
 .App {
   text-align: center;
 }
+.memeImg{
+  width: 100px;
+}
+.body-center{
+  text-align: center;
+}
 
 .App-logo {
   height: 40vmin;

@@ -1,9 +1,13 @@
 import React from 'react'
+import './App.css'
+import Header from './Header'
+import MemeGenerator from './MemeGenerator'
 
 function App() {
   return (
-    <div>
-      <h2>Test</h2>
+    <div className="body-center">
+      <Header />
+      <MemeGenerator />
     </div>
   )
 }
